@@ -1,6 +1,6 @@
 require_relative "./user.rb"
 
-    @@knowledge = []
+    @knowledge = []
     class Student < User
 
 
